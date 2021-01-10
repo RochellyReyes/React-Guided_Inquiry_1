@@ -1,0 +1,10 @@
+.BasicInfo {
+    width:60%;
+    margin: 3em auto;
+    background-color: rgb(245, 244, 244);
+    border: 2px solid #eee;
+    border-radius: 35px;
+    box-shadow: 0 3px 5px #ccc;
+    padding: 16px;
+    text-align: center;
+}
